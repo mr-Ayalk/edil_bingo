@@ -1,0 +1,21 @@
+node_modules/
+.env
+dist/
+build/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+mysql/
+
+# Electron
+electron/dist/
+
+# Binaries
+*.exe
+*.pdb

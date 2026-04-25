@@ -1,0 +1,42 @@
+{
+  "5B8A0987C60858EC": {
+    "amount": 200,
+    "status": "used",
+    "created_at": "2026-04-23T11:36:19.784Z"
+  },
+  "1A4BBC2540B0AD43": {
+    "amount": 400,
+    "status": "active",
+    "created_at": "2026-04-23T11:39:50.040Z"
+  },
+  "E1A1A02D7882DBB3": {
+    "amount": 400,
+    "status": "used",
+    "created_at": "2026-04-23T11:40:19.508Z"
+  },
+  "7AF0168121ED241D": {
+    "amount": 100,
+    "status": "used",
+    "created_at": "2026-04-24T08:32:46.103Z"
+  },
+  "3D6B6543B9304E7A": {
+    "amount": 800,
+    "status": "used",
+    "created_at": "2026-04-24T08:33:34.072Z"
+  },
+  "4C4CEB9E0EEF863C": {
+    "amount": 50,
+    "status": "used",
+    "created_at": "2026-04-24T08:40:46.375Z"
+  },
+  "16E0EF4434F24902": {
+    "amount": 25,
+    "status": "used",
+    "created_at": "2026-04-24T08:41:43.553Z"
+  },
+  "0620BCC3888F9895": {
+    "amount": 800,
+    "status": "active",
+    "created_at": "2026-04-24T09:08:24.503Z"
+  }
+}
